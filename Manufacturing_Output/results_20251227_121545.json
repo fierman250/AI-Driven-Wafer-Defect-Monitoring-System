@@ -1,0 +1,244 @@
+[
+  {
+    "wafer_id": "Thermal_THERM_01_W0001",
+    "machine_id": "THERM_01",
+    "machine_type": "Thermal",
+    "image_path": "C:\\Users\\laimm\\OneDrive\\DD03_Courses\\IMS\\CODE\\AgentAI\\Manufacturing_Output\\processed_images\\Thermal_Thermal_THERM_01_W0001_20251227_121545_921552.jpg",
+    "timestamp": "2025-12-27T12:15:45.924322",
+    "process_step": "Thermal Processing (Annealing, Stress Relief, Burn-in)",
+    "prediction": {
+      "Defect Class": "Normal",
+      "Confidence Score": 0.9999
+    },
+    "defect_count": {
+      "defect_percentage": 36.68
+    },
+    "analysis_timestamp": "2025-12-27T12:15:46.043751",
+    "quality_status": "PASS",
+    "quality_reason": "Defect Percentage: 36.68% (<=40% threshold), Defect Class: Normal, Confidence: 99.99%",
+    "defect_threshold": 40.0,
+    "defect_percentage": 36.68,
+    "threshold_exceeded": false,
+    "simulation_date": "2025-12-21"
+  },
+  {
+    "wafer_id": "Thermal_THERM_02_W0001",
+    "machine_id": "THERM_02",
+    "machine_type": "Thermal",
+    "image_path": "C:\\Users\\laimm\\OneDrive\\DD03_Courses\\IMS\\CODE\\AgentAI\\Manufacturing_Output\\processed_images\\Thermal_Thermal_THERM_02_W0001_20251227_121545_923316.jpg",
+    "timestamp": "2025-12-27T12:15:45.925326",
+    "process_step": "Thermal Processing (Annealing, Stress Relief, Burn-in)",
+    "prediction": {
+      "Defect Class": "Normal",
+      "Confidence Score": 0.9997
+    },
+    "defect_count": {
+      "defect_percentage": 34.78
+    },
+    "analysis_timestamp": "2025-12-27T12:15:46.043751",
+    "quality_status": "PASS",
+    "quality_reason": "Defect Percentage: 34.78% (<=40% threshold), Defect Class: Normal, Confidence: 99.97%",
+    "defect_threshold": 40.0,
+    "defect_percentage": 34.78,
+    "threshold_exceeded": false,
+    "simulation_date": "2025-12-21"
+  },
+  {
+    "wafer_id": "Electrical_ELEC_01_W0001",
+    "machine_id": "ELEC_01",
+    "machine_type": "Electrical",
+    "image_path": "C:\\Users\\laimm\\OneDrive\\DD03_Courses\\IMS\\CODE\\AgentAI\\Manufacturing_Output\\processed_images\\Electrical_Electrical_ELEC_01_W0001_20251227_121545_920552.jpg",
+    "timestamp": "2025-12-27T12:15:45.923316",
+    "process_step": "Electrical Testing (Probe Testing, Parametric Testing)",
+    "prediction": {
+      "Defect Class": "Normal",
+      "Confidence Score": 0.9993
+    },
+    "defect_count": {
+      "defect_percentage": 36.47
+    },
+    "analysis_timestamp": "2025-12-27T12:15:46.044751",
+    "quality_status": "PASS",
+    "quality_reason": "Defect Percentage: 36.47% (<=40% threshold), Defect Class: Normal, Confidence: 99.93%",
+    "defect_threshold": 40.0,
+    "defect_percentage": 36.47,
+    "threshold_exceeded": false,
+    "simulation_date": "2025-12-21"
+  },
+  {
+    "wafer_id": "Mechanical_MECH_02_W0001",
+    "machine_id": "MECH_02",
+    "machine_type": "Mechanical",
+    "image_path": "C:\\Users\\laimm\\OneDrive\\DD03_Courses\\IMS\\CODE\\AgentAI\\Manufacturing_Output\\processed_images\\Mechanical_Mechanical_MECH_02_W0001_20251227_121545_920552.jpg",
+    "timestamp": "2025-12-27T12:15:45.923316",
+    "process_step": "Mechanical Processing (Dicing, Grinding, Polishing)",
+    "prediction": {
+      "Defect Class": "Normal",
+      "Confidence Score": 0.9999
+    },
+    "defect_count": {
+      "defect_percentage": 36.89
+    },
+    "analysis_timestamp": "2025-12-27T12:15:46.045342",
+    "quality_status": "PASS",
+    "quality_reason": "Defect Percentage: 36.89% (<=40% threshold), Defect Class: Normal, Confidence: 99.99%",
+    "defect_threshold": 40.0,
+    "defect_percentage": 36.89,
+    "threshold_exceeded": false,
+    "simulation_date": "2025-12-21"
+  },
+  {
+    "wafer_id": "Electrical_ELEC_02_W0001",
+    "machine_id": "ELEC_02",
+    "machine_type": "Electrical",
+    "image_path": "C:\\Users\\laimm\\OneDrive\\DD03_Courses\\IMS\\CODE\\AgentAI\\Manufacturing_Output\\processed_images\\Electrical_Electrical_ELEC_02_W0001_20251227_121545_920552.jpg",
+    "timestamp": "2025-12-27T12:15:45.923316",
+    "process_step": "Electrical Testing (Probe Testing, Parametric Testing)",
+    "prediction": {
+      "Defect Class": "Normal",
+      "Confidence Score": 0.9993
+    },
+    "defect_count": {
+      "defect_percentage": 36.47
+    },
+    "analysis_timestamp": "2025-12-27T12:15:46.046463",
+    "quality_status": "PASS",
+    "quality_reason": "Defect Percentage: 36.47% (<=40% threshold), Defect Class: Normal, Confidence: 99.93%",
+    "defect_threshold": 40.0,
+    "defect_percentage": 36.47,
+    "threshold_exceeded": false,
+    "simulation_date": "2025-12-21"
+  },
+  {
+    "wafer_id": "Mechanical_MECH_01_W0001",
+    "machine_id": "MECH_01",
+    "machine_type": "Mechanical",
+    "image_path": "C:\\Users\\laimm\\OneDrive\\DD03_Courses\\IMS\\CODE\\AgentAI\\Manufacturing_Output\\processed_images\\Mechanical_Mechanical_MECH_01_W0001_20251227_121545_919549.jpg",
+    "timestamp": "2025-12-27T12:15:45.922057",
+    "process_step": "Mechanical Processing (Dicing, Grinding, Polishing)",
+    "prediction": {
+      "Defect Class": "Local",
+      "Confidence Score": 1.0
+    },
+    "defect_count": {
+      "defect_percentage": 46.01
+    },
+    "analysis_timestamp": "2025-12-27T12:15:46.046463",
+    "quality_status": "FAIL",
+    "quality_reason": "Defect Percentage: 46.01% (>40% threshold), Defect Class: Local, Confidence: 100.00%",
+    "defect_threshold": 40.0,
+    "defect_percentage": 46.01,
+    "threshold_exceeded": true,
+    "simulation_date": "2025-12-21"
+  },
+  {
+    "wafer_id": "Mechanical_MECH_01_W0002",
+    "machine_id": "MECH_01",
+    "machine_type": "Mechanical",
+    "image_path": "C:\\Users\\laimm\\OneDrive\\DD03_Courses\\IMS\\CODE\\AgentAI\\Manufacturing_Output\\processed_images\\Mechanical_Mechanical_MECH_01_W0002_20251227_121551_358099.jpg",
+    "timestamp": "2025-12-27T12:15:51.359359",
+    "process_step": "Mechanical Processing (Dicing, Grinding, Polishing)",
+    "prediction": {
+      "Defect Class": "Normal",
+      "Confidence Score": 0.9997
+    },
+    "defect_count": {
+      "defect_percentage": 29.05
+    },
+    "analysis_timestamp": "2025-12-27T12:15:51.385456",
+    "quality_status": "PASS",
+    "quality_reason": "Defect Percentage: 29.05% (<=40% threshold), Defect Class: Normal, Confidence: 99.97%",
+    "defect_threshold": 40.0,
+    "defect_percentage": 29.05,
+    "threshold_exceeded": false,
+    "simulation_date": "2025-12-21"
+  },
+  {
+    "wafer_id": "Electrical_ELEC_01_W0002",
+    "machine_id": "ELEC_01",
+    "machine_type": "Electrical",
+    "image_path": "C:\\Users\\laimm\\OneDrive\\DD03_Courses\\IMS\\CODE\\AgentAI\\Manufacturing_Output\\processed_images\\Electrical_Electrical_ELEC_01_W0002_20251227_121551_440940.jpg",
+    "timestamp": "2025-12-27T12:15:51.441963",
+    "process_step": "Electrical Testing (Probe Testing, Parametric Testing)",
+    "prediction": {
+      "Defect Class": "Edge-Ring",
+      "Confidence Score": 0.9911
+    },
+    "defect_count": {
+      "defect_percentage": 56.43
+    },
+    "analysis_timestamp": "2025-12-27T12:15:51.468000",
+    "quality_status": "FAIL",
+    "quality_reason": "Defect Percentage: 56.43% (>40% threshold), Defect Class: Edge-Ring, Confidence: 99.11%",
+    "defect_threshold": 40.0,
+    "defect_percentage": 56.43,
+    "threshold_exceeded": true,
+    "simulation_date": "2025-12-21"
+  },
+  {
+    "wafer_id": "Electrical_ELEC_02_W0002",
+    "machine_id": "ELEC_02",
+    "machine_type": "Electrical",
+    "image_path": "C:\\Users\\laimm\\OneDrive\\DD03_Courses\\IMS\\CODE\\AgentAI\\Manufacturing_Output\\processed_images\\Electrical_Electrical_ELEC_02_W0002_20251227_121551_781718.jpg",
+    "timestamp": "2025-12-27T12:15:51.783241",
+    "process_step": "Electrical Testing (Probe Testing, Parametric Testing)",
+    "prediction": {
+      "Defect Class": "Scratch",
+      "Confidence Score": 1.0
+    },
+    "defect_count": {
+      "defect_percentage": 44.04
+    },
+    "analysis_timestamp": "2025-12-27T12:15:51.815235",
+    "quality_status": "FAIL",
+    "quality_reason": "Defect Percentage: 44.04% (>40% threshold), Defect Class: Scratch, Confidence: 100.00%",
+    "defect_threshold": 40.0,
+    "defect_percentage": 44.04,
+    "threshold_exceeded": true,
+    "simulation_date": "2025-12-21"
+  },
+  {
+    "wafer_id": "Mechanical_MECH_02_W0002",
+    "machine_id": "MECH_02",
+    "machine_type": "Mechanical",
+    "image_path": "C:\\Users\\laimm\\OneDrive\\DD03_Courses\\IMS\\CODE\\AgentAI\\Manufacturing_Output\\processed_images\\Mechanical_Mechanical_MECH_02_W0002_20251227_121552_577900.jpg",
+    "timestamp": "2025-12-27T12:15:52.578913",
+    "process_step": "Mechanical Processing (Dicing, Grinding, Polishing)",
+    "prediction": {
+      "Defect Class": "Normal",
+      "Confidence Score": 0.9995
+    },
+    "defect_count": {
+      "defect_percentage": 39.51
+    },
+    "analysis_timestamp": "2025-12-27T12:15:52.604279",
+    "quality_status": "PASS",
+    "quality_reason": "Defect Percentage: 39.51% (<=40% threshold), Defect Class: Normal, Confidence: 99.95%",
+    "defect_threshold": 40.0,
+    "defect_percentage": 39.51,
+    "threshold_exceeded": false,
+    "simulation_date": "2025-12-21"
+  },
+  {
+    "wafer_id": "Thermal_THERM_02_W0002",
+    "machine_id": "THERM_02",
+    "machine_type": "Thermal",
+    "image_path": "C:\\Users\\laimm\\OneDrive\\DD03_Courses\\IMS\\CODE\\AgentAI\\Manufacturing_Output\\processed_images\\Thermal_Thermal_THERM_02_W0002_20251227_121554_917848.jpg",
+    "timestamp": "2025-12-27T12:15:54.918851",
+    "process_step": "Thermal Processing (Annealing, Stress Relief, Burn-in)",
+    "prediction": {
+      "Defect Class": "Normal",
+      "Confidence Score": 0.9997
+    },
+    "defect_count": {
+      "defect_percentage": 34.2
+    },
+    "analysis_timestamp": "2025-12-27T12:15:54.945128",
+    "quality_status": "PASS",
+    "quality_reason": "Defect Percentage: 34.2% (<=40% threshold), Defect Class: Normal, Confidence: 99.97%",
+    "defect_threshold": 40.0,
+    "defect_percentage": 34.2,
+    "threshold_exceeded": false,
+    "simulation_date": "2025-12-21"
+  }
+]
