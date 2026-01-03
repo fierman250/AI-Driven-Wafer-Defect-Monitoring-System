@@ -1,5 +1,9 @@
 # AI-Driven Wafer Defect Monitoring Framework using ML and LLM-POWERED AI AGENT
 
+<img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/121d4369-4d73-4d4f-9d68-21ea14f3c58f" />
+
+DEMO Link in Youtube: https://www.youtube.com/watch?v=WJvnMq2CSCw
+
 A comprehensive semiconductor manufacturing monitoring system that combines machine learning-based defect detection with LLM-powered intelligent analysis and reporting.
 
 ## 📋 Table of Contents
