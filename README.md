@@ -836,10 +836,3 @@ Potential improvements (not yet implemented):
 - Firman (M38147023)
 - Indah Ayu (M38137028)
 
-#   A I - D r i v e n - W a f e r - D e f e c t - M o n i t o r i n g - F r a m e w o r k 
- 
- #   A I - D r i v e n - W a f e r - D e f e c t - M o n i t o r i n g - F r a m e w o r k 
- 
- #   A I - D r i v e n - W a f e r - D e f e c t - M o n i t o r i n g - F r a m e w o r k 
- 
- 
